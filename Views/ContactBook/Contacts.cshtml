@@ -1,0 +1,82 @@
+﻿@{
+    string contactBName = ViewBag.ContactBName!;
+    List<Contact> contacts = ViewBag.Contacts!;
+}
+
+<p hidden id="contactBookName">@contactBName</p>
+
+@model Contact_ContactBookName
+
+<div class="contacts">
+
+    <div class="contact-side-bar">
+        <div class="create-contact-con">
+            <div class="create-contact">
+                <p style=" font-size: 30px">Create contact</p>
+                <form class="create-contact-form" onsubmit="createContact(event)">
+                    
+                    <div class="contact-name-input">
+                        <label for="name">Name: </label>
+                        <input id="name" type="text" />
+                    </div>
+                    <div class="contact-description-input">
+                        <label for="description">Description: </label>
+                        <input id="description" type="text" />
+                    </div>
+
+                    <button style="margin: 10px;" id="create-contact-btn" type="submit" class="btn btn-primary btn-block">Create</button>
+
+                </form>
+            </div>
+
+        </div>
+        <div hidden class="edit-contact-con" id="edit-contact-con">
+            <div class="edit-contact">
+                <p style=" font-size: 30px">Edit contact</p>
+                <form id="edit-form" method="post" asp-action="Edit" asp-controller="Contact">
+                    <input hidden id="id-hidden" name="Contact.Id" asp-for="Contact.Id" />
+                    <input hidden id="contact-book-name-hidden" asp-for="ContactBookName" />
+                    <div class="contact-name-input-edit">
+                        <label for="name-edit" >Name: </label>
+                        <input id="name-edit" asp-for="Contact.Name" type="text" />
+                    </div>
+                    <div class="contact-description-input-edit">
+                        <label for="description-edit">Description: </label>
+                        <input id="description-edit" asp-for="Contact.Description" type="text" />
+                    </div>
+                    @* Contact *@
+                    @* Contact *@
+                    <button style="margin: 10px;" id="create-contact-btn" type="submit" class="btn btn-primary btn-block">Edit</button>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="show-contacts">
+
+            @for (int i = 0; i < contacts.Count; i++)
+            {
+                <div class="contact-card" id=@i>
+                    <p hidden id="id-contact">@contacts[i].Id</p>
+                    <p style="text-align: center; font: bold; font-size: 20px;">Contact</p>
+                    <div style="display: flex;">
+                        <p>Name: </p>
+                        <p id="contactName" style="margin-left: 5px">@contacts[i].Name</p>
+                    </div>
+                    <div style ="display: flex;">
+                        <p>Description: </p>
+                        <p id="contactDescription" style="margin-left: 5px">@contacts[i].Description</p>
+                    </div>
+                    
+                    <div style="margin: 10px; display: flex; flex-direction: column;">
+                        <button onclick="showEditForm()" style="margin-bottom: 10px;">Edit</button>
+                        <button onclick="delectContact(event)"> Delete</button>
+                    </div>
+                    
+                </div>
+            }
+        
+    </div>
+
+</div>

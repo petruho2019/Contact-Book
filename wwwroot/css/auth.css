@@ -1,0 +1,33 @@
+﻿.text-center-index {
+    display: flex;
+    justify-content: center;
+}
+.form-login {
+    width: 800px;
+    text-align: center;
+}
+
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.form-label {
+    justify-content: start;
+    display: flex;
+}
+
+.form-register {
+    width: 800px;
+}
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+

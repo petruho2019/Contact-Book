@@ -1,0 +1,715 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\user\\personal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\user\\personal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\controllers\\contactbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:controllers\\contactbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\implementations\\contactbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\implementations\\contactbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\interfaces\\icontactbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\interfaces\\icontactbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\repository\\implementations\\contactbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:repository\\implementations\\contactbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\repository\\implementations\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:repository\\implementations\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\repository\\interfaces\\icontactbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:repository\\interfaces\\icontactbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\interfaces\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\interfaces\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\wwwroot\\css\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:wwwroot\\css\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\contactbook\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\contactbook\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\implementations\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\implementations\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\models\\dto\\contact_contactbookname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:models\\dto\\contact_contactbookname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\repository\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:repository\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\repository\\interfaces\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:repository\\interfaces\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\models\\contactbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:models\\contactbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\migrations\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:migrations\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\migrations\\20250321074111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:migrations\\20250321074111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\20250325092617_Constraint_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250325092617_Constraint_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\developer\\c#\\contacts\\migrations\\20250325160806_contact_contactsbook_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC7CCC9-4709-4BB8-B2E0-379DB8987C9B}|Contacts.csproj|solutionrelative:migrations\\20250325160806_contact_contactsbook_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:26:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContactBookService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IContactBookService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IContactBookService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IContactBookService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IContactBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:24:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactBookService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Implementations\\ContactBookService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ContactBookService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Implementations\\ContactBookService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ContactBookService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:40:18.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personal.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\User\\Personal.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Personal.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\User\\Personal.cshtml",
+              "RelativeToolTip": "Views\\User\\Personal.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:17:55.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Contexts\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Contexts\\ApplicationContext.cs",
+              "RelativeToolTip": "Contexts\\ApplicationContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:37:42.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Implementations\\ContactBookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\ContactBookRepository.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Implementations\\ContactBookRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\ContactBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:18:05.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Implementations\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Implementations\\ContactRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\ContactRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:32:18.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IContactBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Interfaces\\IContactBookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContactBookRepository.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Interfaces\\IContactBookRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IContactBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:17:25.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IContactService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IContactService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IContactService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:42:20.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\ContactBook\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "Views\\ContactBook\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\ContactBook\\Contacts.cshtml",
+              "RelativeToolTip": "Views\\ContactBook\\Contacts.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T14:51:57.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:53:34.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:31:29.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:08.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Implementations\\ContactService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ContactService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Implementations\\ContactService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ContactService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA5wCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:42:49.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Authentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authentication\\Register.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Authentication\\Register.cshtml",
+              "RelativeToolTip": "Views\\Authentication\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T14:50:41.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T14:56:28.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:05:35.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T14:56:28.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:53:40.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:46:35.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Interfaces\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Interfaces\\IContactRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:21:49.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:54:29.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:14:14.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ContactBook.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Models\\ContactBook.cs",
+              "RelativeDocumentMoniker": "Models\\ContactBook.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Models\\ContactBook.cs",
+              "RelativeToolTip": "Models\\ContactBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:04:22.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:27:20.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:09:57.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Implementations\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Services\\Implementations\\AuthenticationService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AuthenticationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:56:20.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T10:54:04.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T11:25:49.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:15:08.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-27T14:10:49.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250325160806_Contact_ContactsBook_Create.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\20250325160806_Contact_ContactsBook_Create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250325160806_Contact_ContactsBook_Create.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\20250325160806_Contact_ContactsBook_Create.cs",
+              "RelativeToolTip": "Migrations\\20250325160806_Contact_ContactsBook_Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:08:06.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T14:15:49.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250321074111_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\20250321074111_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250321074111_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\20250321074111_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250321074111_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:26:53.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250325092617_Constraint_Create.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\20250325092617_Constraint_Create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250325092617_Constraint_Create.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\20250325092617_Constraint_Create.cs",
+              "RelativeToolTip": "Migrations\\20250325092617_Constraint_Create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:26:17.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\UserContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\UserContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Migrations\\UserContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\UserContextModelSnapshot.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:34:10.678Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "user.css",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\wwwroot\\css\\user.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\user.css",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\wwwroot\\css\\user.css",
+              "RelativeToolTip": "wwwroot\\css\\user.css",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-28T15:28:32.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactBookController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\ContactBookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactBookController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\ContactBookController.cs",
+              "RelativeToolTip": "Controllers\\ContactBookController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:05:28.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:30:17.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-28T14:28:08.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contact_ContactBookName.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Models\\DTO\\Contact_ContactBookName.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Contact_ContactBookName.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Developer\\C#\\Contacts\\Models\\DTO\\Contact_ContactBookName.cs",
+              "RelativeToolTip": "Models\\DTO\\Contact_ContactBookName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:24:13.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+﻿.contacts {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+.contact-side-bar {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.create-contact-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    height: 50%;
+}
+
+.create-contact{
+    justify-content: center;
+    text-align: center;
+    border: 1px solid;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 19px;
+}
+
+.show-contacts {
+    display: grid;
+    flex: 3;
+    border-bottom: 1px solid;
+    overflow-y: auto;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    border: 1px solid;
+    place-items: center;
+}
+
+.create-contact-form > div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 10px;
+}
+
+.contact-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    padding: 20px;
+    margin: 30px;
+    justify-content: center;
+    
+    max-width: fit-content; /* Подстраивается под контент */
+    max-height: fit-content; /* Подстраивается под контент */
+}
+
+.edit-contact-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    border: 1px solid;
+}
+
+.edit-contact {
+    border: 1px solid;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 19px;
+}
+
+#edit-form > div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 10px;
+}
+}
+
+

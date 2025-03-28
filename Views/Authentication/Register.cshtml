@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Register page";
+}
+
+@model User
+
+<div class="register-container">
+    <form class="form-register" method="post" asp-action="RegisterAction" asp-controller="Authentication" onsubmit="return validateRegisterForm()">
+
+        <h2 style="margin: 20px">Registration</h2>
+
+        <!-- Username input -->
+        <div class="form-outline mb-4">
+            <input asp-for="Username" id="username" class="form-control" />
+            <label class="form-label" for="username">Username</label>
+            <p class="error-message" id="usernameError"></p>
+
+            @if (ViewBag.ErrorField == "Username")
+            {
+                <p class="error-message" id="usernameErrorFromServer">@ViewBag.ErrorMessageFromServer</p>
+            }
+        </div>
+
+        <!-- Age input -->
+        <div class="form-outline mb-4">
+            <input asp-for="Age" type="number" id="age" class="form-control" />
+            <label class="form-label" for="age">Age</label>
+            <p class="error-message" id="ageError"></p>
+        </div>
+
+        <!-- Email input -->
+        <div class="form-outline mb-4">
+            <input asp-for="Email" type="email" id="email" class="form-control" />
+            <label class="form-label" for="email">Email address</label>
+            <p class="error-message" id="emailError"></p>
+        </div>
+
+        <!-- Password input -->
+        <div class="form-outline mb-4">
+            <input asp-for="Password" type="password" id="password" class="form-control" />
+            <label class="form-label" for="password">Password</label>
+            <p class="error-message" id="passwordError"></p>
+        </div>
+
+        <a asp-controller="Home" asp-action="Index">You're alredy registrated?</a>
+
+        @if (ViewBag.ErrorField == null)
+        {
+            <p>@ViewBag.ErrorMessageFromServer</p>
+        }
+
+        <button type="submit" class="btn btn-primary btn-block mb-4">Register</button>
+    </form>
+</div>
+
+
+
+<script>
+
+
+</script>

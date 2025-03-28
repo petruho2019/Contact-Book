@@ -1,0 +1,121 @@
+﻿@using Contacts.Contexts
+@{
+    User user = ViewBag.UserPersonal;
+    int numberOfStartFill = 0;
+    List<ContactBook> contactBooks = ViewBag.ContactBooks;
+    int countContactBooks = contactBooks.Count;
+
+
+}
+
+@model ContactBook
+
+<div class="personal-container">
+    <div class="side-bar">
+        <div class="user-header">
+            <div class="user-title">
+                <p>User profile</p>
+            </div>
+            <div class="user-photo">
+                <div class="avatar">
+                </div>
+            </div>
+        </div>
+
+        <div class="user-info">
+            <div class="user-info-header">
+                <p>User info</p>
+            </div>
+
+            <p>Username: @user.Username</p>
+            <p>Email: @user.Email</p>
+            <p>Age: @user.Age</p>
+        </div>
+
+        <div class="create-contact-book-con">
+            @if (countContactBooks == 4)
+            {
+                <h4>You have reached the limit of contact books</h4>
+
+            }
+            else{
+                <form method="post" asp-action="CreateContactBook", asp-controller="ContactBook" onsubmit="return validateContactForm()">
+                    <h2 style="margin: 20px">Create form</h2>
+
+                    <!-- Username input -->
+                    <div class="form-outline mb-4">
+                        <label for="name">Name</label>
+                        <input asp-for="Name" id="name" />
+
+                        <p class="error-message" id="nameError"></p>
+
+                        @if (ViewBag.ErrorField == "Name")
+                        {
+                            <p class="error-message" id="usernameErrorFromServer">@ViewBag.ErrorMessageFromServer</p>
+                        }
+                    </div>
+
+                    @if (ViewBag.ErrorField == null)
+                    {
+                        <p>@ViewBag.ErrorMessageFromServer</p>
+                    }
+
+                    <button type="submit" class="btn btn-primary btn-block mb-4">Create contact book</button>
+                </form>
+            }
+        </div>
+
+    </div>
+
+    <div class="contacts-container">
+        <div class="contacts-header">
+            <p>List of contacts</p>
+        </div>
+
+        <div class="contact-book-add-con"> 
+
+        </div>
+
+        <div class="contact-books">
+
+            @for (int i = 0; i < countContactBooks; i++)
+            {
+                <div class="contact-book" id=@i>
+                    <h3>Contact book</h3>
+                    <div style="display: flex;">
+                        <p>Name: </p>
+                        <p id="contactBookName" style="margin-left: 5px">@contactBooks[i].Name</p>
+                    </div>
+
+                    <div>
+                        <button type="submit" onclick="redirectToContacts()">
+                            Show contacts</button>
+                        <button type="submit" onclick="deleteContactBook()">Delete contact book</button>
+                    </div>
+
+                </div>
+                numberOfStartFill++;
+            }
+
+            @if (countContactBooks != 4)
+            {
+                for (int i = numberOfStartFill; i < 4; i++)
+                {
+                    <div class="contact-empty" id=@i>
+                        <p>Empty сell</p>
+                    </div>
+                }
+            }
+        </div>
+
+
+    </div>
+
+</div>
+
+<a asp-action="Logout" asp-controller="Auth">Logout</a>
+
+
+
+
+
